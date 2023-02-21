@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Xinnan!</h1>
-<h3 align="center">As student at the University of Oslo, I am pursuing a major in Programming and System Architecture.</h3>
+<h2 align="left">Hi 👋, I'm Xinnan!</h2>
+<h5 align="left">As student at the University of Oslo, I am pursuing a major in Programming and System Architecture.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luoxinnan&label=Profile%20views&color=0e75b6&style=flat" alt="luoxinnan" /> </p>
 
